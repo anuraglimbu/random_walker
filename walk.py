@@ -9,7 +9,7 @@ drunkard = turtle.Turtle()
 drunkard.shapesize(0.7, 0.7)
 drunkard.speed(1)
 
-print("Enter number of steps to take:", end="")
+print("Enter number of walks to take:", end="")
 n = int(input())
 k = 5
 
